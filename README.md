@@ -4,5 +4,5 @@ This project is a basic flight booking program that allows the user to add avail
 ## Known Bugs
 Currently, there is a bug when cloning repo that gives a connection error with the databases. However, refreshing the connection fixes the error and program runs as intended. Not sure if is normal Visual Studio behaviour or error in code. Later research will be required. 
 
-***Update: ***
-Nothing was changed but the bug no longer persists on my system and I haven't been able to replicate the issue. If you get this issue plaese contact me at alex.koumarianos@gmail.com so i can explore the issue. 
+***Update:***
+ Nothing was changed but the bug no longer persists on my system and I haven't been able to replicate the issue. If you get this issue plaese contact me at alex.koumarianos@gmail.com so i can explore the issue. 
